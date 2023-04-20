@@ -1,6 +1,6 @@
 
 
-# Correkt
+# Correkt (public repository)
 Correkt is a website and chrome extension that detects misinformation with over 93% accuracy! 
 
 ## Description
