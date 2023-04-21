@@ -23,5 +23,5 @@ Options:
 <img src="https://github.com/Ramon-W/correkt-public/blob/main/options.gif" data-canonical-src="https://github.com/Ramon-W/correkt-public/blob/main/options.gif" width="300" style='display:inline-block' />
 
 ## Authors
-Alexzendor, Justin, Ryan, Tyler, Henry, Ramon, Jerry, Irena, Kevin, Caitlyn, Kaitlin, Maya
+Alexzendor, Justin, Ryan, Tyler, Henry, Ramon, Jerry, Irena, Kevin, Caitlyn, Kaitlin, Maya, Noah
 
