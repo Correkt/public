@@ -16,7 +16,8 @@ Additionally, through our partnership with AI Art Detector, we're adding deepfak
 
 Demo:
 
-[![IMAGE ALT TEXT HERE](https://youtu.be/HtHq403H4xU/0.jpg)]([https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE](https://youtu.be/HtHq403H4xU))
+[![IMAGE ALT TEXT HERE](https://youtu.be/HtHq403H4xU/0.jpg)](https://youtu.be/HtHq403H4xU)
+
 
 Popup:
 
