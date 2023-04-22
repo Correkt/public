@@ -16,7 +16,7 @@ Additionally, through our partnership with AI Art Detector, we're adding deepfak
 
 Demo:
 
-[![IMAGE ALT TEXT](//www.youtube.com/watch?v=HtHq403H4xU&ab_channel=NoahWang/0.jpg)](//www.youtube.com/watch?v=HtHq403H4xU&ab_channel=NoahWang "Image")
+[![IMAGE ALT TEXT](https://youtu.be/HtHq403H4xU/0.jpg)](https://youtu.be/HtHq403H4xU "Image")
 
 Popup:
 
