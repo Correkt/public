@@ -15,7 +15,8 @@ Using state-of-the-art NLP techniques, Correkt labels misinformation as soon as 
 Additionally, through our partnership with AI Art Detector, we're adding deepfake detection to our suite of features! This will give our extension the ability to detect artificially generated artwork, images, and, eventually, all types of audio and visual media. AI Art Detector works using two state of the art image classification models, MaxViT and CoAtNet, which fuse vision transformers and CNNs. It used several data augmentation techniques, such as color jittering, drop-path, and random-erase for regularization with over 40k training images scraped and curated from deviantart galleries, subredddits, and more. This image classification model currently reaches an accuracy of 89.8%+ on 10k testing images and can detect the source of an artwork submission, whether it's human vs AI, as well as determine which of the most popular generative models today created it.
 
 Demo:
-[![IMAGE ALT TEXT](https://www.youtube.com/watch?v=HtHq403H4xU&ab_channel=NoahWang/0.jpg)](https://www.youtube.com/watch?v=HtHq403H4xU&ab_channel=NoahWang "Image")
+
+[![IMAGE ALT TEXT](//www.youtube.com/watch?v=HtHq403H4xU&ab_channel=NoahWang/0.jpg)](//www.youtube.com/watch?v=HtHq403H4xU&ab_channel=NoahWang "Image")
 
 Popup:
 
