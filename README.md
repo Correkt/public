@@ -11,7 +11,7 @@ Demo:
 
 Popup:
 
-<img src="//github.com/Ramon-W/correkt-public/blob/main/settings.gif" data-canonical-src="//github.com/Ramon-W/correkt-public/blob/main/settings.gif" width="300" style='display:inline-block' />
+<img src="https://github.com/Ramon-W/correkt-public/blob/main/settings.gif" data-canonical-src="https://github.com/Ramon-W/correkt-public/blob/main/settings.gif" width="300" style='display:inline-block' />
 
 Options:
 
